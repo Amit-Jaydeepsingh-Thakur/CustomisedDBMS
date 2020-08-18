@@ -289,7 +289,7 @@ class Student implements LinkedLL
 
 /////////////////////////////////////////////////
 
-class Demo
+class DBMS
 {
  public static void main(String arg[])
  {
