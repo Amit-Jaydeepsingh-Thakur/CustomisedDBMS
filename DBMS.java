@@ -297,11 +297,11 @@ class Demo
 
  Scanner sobj = new Scanner(System.in);
 
- System.out.println("Marvellous DB Started");
+ System.out.println("DB Started");
 
  while(true)
  {
- System.out.println("MarvellousDB:>");
+ System.out.println("Welcome to DB:>");
  String query = sobj.nextLine();
 
  String tokens[] = query.split("\\s");
