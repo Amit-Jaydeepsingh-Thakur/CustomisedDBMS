@@ -311,7 +311,7 @@ class DBMS
  {
  if(query.equalsIgnoreCase("stop"))
  {
- System.out.println("Thank you for using Marvellous DB");
+ System.out.println("Thank you for using   DB");
  break;
  }
  }
